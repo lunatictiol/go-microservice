@@ -6,6 +6,7 @@ require (
 	github.com/go-chi/chi/v5 v5.2.0
 	github.com/go-chi/cors v1.2.1
 	github.com/jackc/pgconn v1.14.3
+	github.com/pkg/errors v0.8.1
 	golang.org/x/crypto v0.31.0
 )
 
